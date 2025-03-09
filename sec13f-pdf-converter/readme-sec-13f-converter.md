@@ -6,6 +6,10 @@ A Python utility to extract securities data from SEC 13F List PDFs and convert t
 
 The SEC publishes quarterly lists of securities in Form 13F reports as PDFs, which are not easily machine-readable. This utility extracts the tabular data from these PDFs and converts it into structured formats (XLSX and CSV) that can be imported into databases or used for analysis.
 
+## Pre-Converted Files Available
+
+For your convenience, I maintain a collection of pre-converted Excel and CSV files for SEC 13F list data from 2020 onwards at [sec13flist.com](http://sec13flist.com). If you need a specific SEC 13F PDF file converted to Excel or CSV format and don't want to run the converter yourself, please email me at contactus@sec13flist.com.
+
 ## Features
 
 - Extracts securities data from SEC 13F PDF files
